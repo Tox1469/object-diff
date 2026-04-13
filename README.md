@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/object-diff/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/object-diff/actions)
+[![License](https://img.shields.io/github/license/Tox1469/object-diff?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/object-diff?style=flat-square)](https://github.com/Tox1469/object-diff/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/object-diff?style=flat-square)](https://github.com/Tox1469/object-diff/stargazers)
+
+---
+
 # object-diff
 
 Calcula diff entre dois objetos, produzindo entradas add/remove/change por path.
