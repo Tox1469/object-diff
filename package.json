@@ -1,0 +1,19 @@
+{
+  "name": "object-diff",
+  "version": "1.0.0",
+  "description": "Diff entre dois objetos com add/remove/change",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["diff","object","compare","patch"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
